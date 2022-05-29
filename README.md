@@ -9,4 +9,4 @@
 # 展示
 ![test](model_data/测试集.jpg)
 
-![map](model_data/.jpg)
+![map](model_data/mAP.png)
