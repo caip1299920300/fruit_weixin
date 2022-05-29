@@ -4,3 +4,7 @@
 
 # 权重下载
 下载百度网盘权重文件（链接：https://pan.baidu.com/s/15gn0Q3yNLea-n_romMUMDg 提取码：8m7g）放在model_data目录下
+
+
+# 展示
+![test](model_data/测试集.jpg)
