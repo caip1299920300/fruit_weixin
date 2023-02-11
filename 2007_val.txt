@@ -1,0 +1,23 @@
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_11.jpg 37,52,205,222,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_14.jpg 136,199,569,628,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_49.jpg 41,67,151,177,0 118,40,219,135,0 223,53,327,164,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_58.jpg 114,398,548,787,0 188,29,574,397,0 468,288,799,673,0 0,253,316,661,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_67.jpg 319,51,582,339,0 79,18,338,270,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_79.jpg 274,162,800,689,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_9.jpg 144,136,470,411,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_25.jpg 190,12,422,182,1 170,43,355,216,1 140,56,290,246,1 86,75,172,290,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_43.jpg 130,800,764,1800,1 546,621,1071,1679,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_56.jpg 132,98,591,348,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_59.jpg 25,40,917,527,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_16.jpg 313,153,478,348,2 127,148,320,371,0 73,366,618,619,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_3.jpg 108,277,223,376,2 518,255,598,330,2 492,198,590,275,2 122,165,379,265,1 160,207,394,302,1 296,164,453,309,1 324,214,460,343,1 301,89,410,192,0 411,122,525,227,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_2.jpg 2,94,203,299,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_26.jpg 1,171,532,676,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_28.jpg 24,11,253,235,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_3.jpg 71,18,258,220,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_31.jpg 4,71,366,398,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_45.jpg 42,86,282,330,2 291,81,545,348,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_51.jpg 50,98,248,289,2 214,75,383,248,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_68.jpg 28,14,125,119,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_74.jpg 324,291,692,680,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_76.jpg 36,158,492,644,2

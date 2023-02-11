@@ -1,0 +1,204 @@
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_0.jpg 56,99,1413,1419,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_10.jpg 158,116,1264,1143,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_12.jpg 23,55,458,497,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_13.jpg 97,127,346,379,0 314,112,594,385,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_15.jpg 147,218,336,412,0 99,131,264,316,0 235,142,404,324,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_16.jpg 110,730,913,1551,0 1,1,407,617,0 104,4,624,557,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_17.jpg 167,29,346,201,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_18.jpg 125,58,302,221,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_19.jpg 51,3,414,350,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_2.jpg 213,33,459,258,0 1,30,188,280,0 116,5,337,220,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_20.jpg 25,42,275,297,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_21.jpg 43,67,220,234,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_22.jpg 584,438,867,708,0 492,141,740,394,0 176,199,490,466,0 367,17,619,240,0 642,35,907,269,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_23.jpg 254,163,582,487,0 217,448,535,713,0 603,470,800,716,0 468,179,727,467,0 1,63,308,414,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_24.jpg 304,105,773,439,0 3,40,475,439,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_25.jpg 553,120,1232,868,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_26.jpg 91,92,710,706,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_27.jpg 43,135,219,324,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_28.jpg 8,17,155,161,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_29.jpg 36,48,323,334,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_3.jpg 43,21,350,353,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_30.jpg 38,189,1017,1184,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_31.jpg 196,317,575,666,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_32.jpg 141,35,315,210,0 18,22,168,190,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_33.jpg 202,37,470,314,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_34.jpg 144,55,337,257,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_35.jpg 39,55,445,474,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_36.jpg 204,154,624,596,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_37.jpg 21,27,319,315,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_38.jpg 34,95,359,424,0 304,62,575,353,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_39.jpg 515,257,748,524,0 339,345,578,569,0 10,239,214,471,0 193,191,423,406,0 442,176,635,327,0 301,22,533,216,0 535,55,700,220,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_4.jpg 415,261,720,567,0 105,426,393,691,0 194,290,477,545,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_40.jpg 54,72,604,624,0 446,78,887,546,0 683,88,960,487,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_41.jpg 133,173,556,595,0 401,115,725,441,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_42.jpg 153,36,543,438,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_43.jpg 68,161,187,276,0 208,181,339,306,0 264,64,370,159,0 331,1,466,105,0 420,46,541,162,0 324,104,438,211,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_44.jpg 147,45,288,202,0 46,40,148,149,0 86,108,197,217,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_46.jpg 129,72,271,217,0 219,195,341,316,0 182,311,334,435,0 1,181,167,338,0 309,101,408,191,0 377,248,451,323,0 402,77,463,138,0 395,152,460,219,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_47.jpg 45,53,252,261,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_5.jpg 318,146,680,511,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_50.jpg 349,227,861,784,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_51.jpg 1,93,291,402,0 202,21,453,311,0 349,107,645,394,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_52.jpg 167,334,651,810,0 1,132,368,605,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_54.jpg 139,125,441,439,0 559,211,838,464,0 252,272,529,514,0 699,185,939,453,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_56.jpg 234,132,416,343,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_59.jpg 574,171,1035,654,0 119,175,570,658,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_6.jpg 643,364,1396,1046,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_61.jpg 46,59,397,432,0 363,83,770,514,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_63.jpg 397,213,961,793,0 78,176,590,665,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_64.jpg 95,227,262,404,0 229,219,406,376,0 169,128,348,297,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_65.jpg 287,233,1141,1111,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_68.jpg 26,56,222,239,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_69.jpg 6,18,206,206,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_7.jpg 14,44,270,300,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_70.jpg 125,196,295,374,0 197,144,363,328,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_72.jpg 36,38,271,282,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_73.jpg 132,8,475,414,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_74.jpg 29,36,313,350,0 252,30,465,295,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_75.jpg 30,60,335,395,0 276,106,630,436,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_76.jpg 67,8,222,155,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_77.jpg 123,45,405,329,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_78.jpg 194,60,450,326,0 45,278,320,557,0 317,299,597,579,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_8.jpg 113,258,583,700,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/apple_80.jpg 184,110,582,525,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_0.jpg 144,46,340,291,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_1.jpg 114,105,284,393,1 328,128,440,444,1 360,88,511,345,1 232,141,343,458,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_10.jpg 45,1,130,95,1 62,30,195,110,1 1,27,47,99,1 17,7,77,91,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_11.jpg 43,128,714,385,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_12.jpg 63,48,273,310,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_13.jpg 74,83,243,191,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_14.jpg 74,58,497,387,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_16.jpg 496,168,1603,923,1 199,587,1470,1268,1 797,1,1772,611,1 1052,1,1916,550,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_17.jpg 126,16,422,288,1 615,46,883,389,1 511,64,800,408,1 511,144,771,538,1 387,131,557,557,1 200,130,491,465,1 164,45,537,326,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_18.jpg 38,174,595,408,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_19.jpg 33,213,459,427,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_2.jpg 89,48,613,406,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_20.jpg 64,101,466,190,1 71,109,467,261,1 80,145,477,354,1 203,165,554,436,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_21.jpg 171,236,859,756,1 4,236,433,756,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_22.jpg 75,21,563,328,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_23.jpg 193,207,1700,983,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_24.jpg 125,133,772,497,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_26.jpg 96,107,580,397,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_27.jpg 129,109,632,355,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_28.jpg 317,156,541,387,1 48,182,421,368,1 81,107,456,255,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_29.jpg 254,231,617,720,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_3.jpg 87,27,689,480,1 94,3,665,300,1 117,7,628,216,1 520,147,719,480,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_30.jpg 17,57,421,201,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_31.jpg 3,61,342,263,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_32.jpg 29,1,834,214,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_33.jpg 60,85,2792,2568,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_34.jpg 95,63,597,266,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_36.jpg 373,104,514,345,1 298,93,382,354,1 219,110,292,349,1 121,117,216,354,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_38.jpg 822,381,1448,1519,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_39.jpg 117,82,302,174,1 305,81,489,175,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_4.jpg 103,210,655,484,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_41.jpg 4,92,409,434,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_42.jpg 77,230,841,572,1 363,211,1013,754,1 37,187,793,485,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_44.jpg 4,3,1818,926,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_45.jpg 10,625,2466,4515,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_46.jpg 24,5,335,276,1 100,65,361,353,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_47.jpg 270,3,657,196,1 37,75,186,237,1 124,122,666,311,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_48.jpg 81,63,524,458,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_49.jpg 301,57,897,724,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_5.jpg 1,60,294,176,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_51.jpg 11,43,592,448,1 24,174,599,657,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_52.jpg 103,138,491,313,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_53.jpg 27,72,521,319,1 272,80,498,306,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_54.jpg 54,156,534,360,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_55.jpg 184,221,1226,712,1 68,224,1011,751,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_57.jpg 170,37,498,339,1 54,114,452,371,1 126,31,438,226,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_58.jpg 20,48,333,174,1 172,67,395,282,1 57,76,349,225,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_60.jpg 78,57,394,350,1 171,49,543,224,1 158,45,524,304,1 190,51,533,255,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_61.jpg 19,21,337,325,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_62.jpg 470,161,992,495,1 628,1,1169,298,1 1,3,412,344,1 1,249,260,669,1 229,449,710,674,1 822,480,1198,674,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_63.jpg 97,83,533,320,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_65.jpg 177,52,374,822,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_67.jpg 84,43,403,155,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_68.jpg 57,215,1711,1112,1 478,264,1991,1332,1 1,189,1594,768,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_69.jpg 146,13,1459,1080,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_7.jpg 69,43,218,258,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_70.jpg 65,18,693,192,1 120,106,707,416,1 279,14,720,308,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_71.jpg 645,456,1600,1092,1 819,660,1600,1168,1 101,171,1281,1044,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_8.jpg 17,154,436,348,1 108,91,430,228,1 114,36,389,171,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/banana_9.jpg 201,48,627,379,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_0.jpg 222,61,400,239,2 29,75,197,218,0 88,292,400,416,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_1.jpg 4,159,86,247,2 71,156,144,231,2 44,42,274,138,1 191,177,285,268,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_10.jpg 130,262,294,412,2 156,44,347,240,0 337,39,463,426,1 379,157,643,485,1 390,38,544,415,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_11.jpg 141,155,499,513,2 77,133,674,590,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_12.jpg 221,83,463,338,2 440,148,666,404,0 54,228,627,528,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_13.jpg 262,231,485,445,2 463,223,690,434,0 154,258,510,455,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_14.jpg 38,9,184,152,2 27,151,333,233,1 188,4,325,149,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_17.jpg 467,341,777,657,2 10,204,616,421,1 16,262,666,517,1 64,39,326,332,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_18.jpg 51,25,303,284,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_19.jpg 795,369,1173,780,2 147,48,869,476,1 169,180,839,798,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_2.jpg 67,163,441,541,2 209,134,866,348,1 263,267,849,551,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_4.jpg 253,87,426,259,2 25,93,310,376,1 103,5,267,166,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_5.jpg 485,43,908,469,2 173,127,653,611,0 283,215,1172,764,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_7.jpg 138,250,402,563,2 129,98,449,353,0 204,34,753,336,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_8.jpg 166,36,586,412,2 39,289,986,591,1 542,77,911,389,0
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/mix_9.jpg 373,181,685,469,2 105,333,930,529,1 115,452,958,660,1
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_0.jpg 124,57,335,253,2 77,296,286,514,2 254,376,466,575,2 189,461,391,631,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_1.jpg 38,1,345,299,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_10.jpg 408,130,945,685,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_11.jpg 164,36,595,477,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_12.jpg 27,247,291,499,2 733,268,1004,535,2 543,213,796,440,2 283,247,517,455,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_13.jpg 26,69,604,581,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_14.jpg 368,109,706,470,2 58,69,410,432,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_15.jpg 134,208,896,943,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_16.jpg 47,52,379,381,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_17.jpg 191,43,853,746,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_18.jpg 14,8,278,280,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_19.jpg 85,137,488,545,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_20.jpg 494,1,1452,741,2 822,643,1620,1066,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_21.jpg 35,96,268,315,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_22.jpg 11,14,204,215,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_23.jpg 227,253,706,762,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_25.jpg 52,7,174,130,2 139,5,275,149,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_27.jpg 159,45,520,336,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_29.jpg 23,33,272,265,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_30.jpg 155,99,411,329,2 24,1,239,187,2 401,47,600,297,2 205,25,417,209,2 302,272,566,398,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_32.jpg 140,300,489,668,2 389,337,818,688,2 621,277,965,620,2 365,61,805,419,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_33.jpg 11,5,291,306,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_34.jpg 134,133,337,335,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_35.jpg 58,137,267,358,2 260,99,465,351,2 136,1,355,171,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_36.jpg 87,137,325,415,2 347,127,603,398,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_37.jpg 68,305,947,1191,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_38.jpg 607,133,1030,540,2 1074,230,1458,657,2 1018,616,1498,1048,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_39.jpg 75,96,531,465,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_4.jpg 175,368,1576,1759,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_40.jpg 78,79,257,249,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_41.jpg 399,238,678,519,2 559,81,869,339,2 583,328,916,565,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_43.jpg 165,86,377,291,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_44.jpg 45,57,214,212,2 164,49,324,212,2 226,2,368,143,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_46.jpg 26,28,300,295,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_47.jpg 76,69,412,439,2 430,58,759,380,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_48.jpg 103,104,224,247,2 97,1,203,115,2 1,62,131,187,2 1,2,111,70,2 30,201,152,250,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_5.jpg 163,294,1003,1130,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_50.jpg 708,81,1253,598,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_52.jpg 61,36,526,492,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_53.jpg 415,282,1032,902,2 990,370,1578,974,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_54.jpg 5,39,253,295,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_55.jpg 706,257,1440,978,2 172,181,860,843,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_56.jpg 834,183,1957,1345,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_57.jpg 151,72,544,474,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_58.jpg 12,54,342,386,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_59.jpg 92,66,546,522,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_60.jpg 244,202,663,600,2 664,128,919,369,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_61.jpg 390,391,815,800,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_62.jpg 102,99,1969,1919,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_64.jpg 136,117,240,224,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_65.jpg 62,77,245,267,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_66.jpg 59,72,287,305,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_67.jpg 98,136,545,596,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_69.jpg 261,278,864,889,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_7.jpg 1633,394,3098,1968,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_70.jpg 56,113,278,332,2 213,98,413,320,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_71.jpg 262,52,508,313,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_72.jpg 263,43,564,363,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_73.jpg 215,181,406,370,2 328,173,488,351,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_75.jpg 4,37,340,400,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_77.jpg 8,58,741,833,2 580,21,1273,753,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_78.jpg 352,254,778,677,2 679,171,1105,568,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_8.jpg 87,162,311,404,2
+E:\O\yolo\yolov3\VOCdevkit/VOC2007/JPEGImages/orange_9.jpg 195,61,438,284,2
